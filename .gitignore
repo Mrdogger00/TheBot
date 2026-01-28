@@ -1,0 +1,5 @@
+.env
+thebot.db
+__pycache__/
+.venv/
+thebot.db-journal

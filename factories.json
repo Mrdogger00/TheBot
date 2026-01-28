@@ -1,0 +1,11 @@
+{
+    "coal_mine": {
+        "cost": 400,
+        "name": "Coal Mine",
+        "cooldown_time": 1,
+        "min_profit": 50,
+        "max_profit": 150
+    }
+
+
+}
